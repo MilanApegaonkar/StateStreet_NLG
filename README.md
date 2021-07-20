@@ -10,5 +10,7 @@ read the article :https://machinelearningmastery.com/text-generation-lstm-recurr
 
 Links:
 https://jmcauley.ucsd.edu/data/amazon/
+<br>
 https://whywelikethis.com/best-bear-sprays-for-black-bears/
+<br>
 http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Electronics_5.json.gz
